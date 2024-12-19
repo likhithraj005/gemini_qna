@@ -20,4 +20,4 @@ Gemini QnA ChatBot is a dynamic and interactive chatbot application that leverag
 
 ## API Documentation
 
-You can test and explore the Gemini QnA API through Postman. Here's the API Documentation: https://documenter.getpostman.com/view/29635048/2sAYJ1n3cR for detailed endpoints and how to use them.
+You can test and explore the Gemini QnA API through Postman. Here's the API Documentation: https://documenter.getpostman.com/view/29635048/2sAYJ1n3cR 
